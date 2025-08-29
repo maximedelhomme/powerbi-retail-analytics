@@ -28,7 +28,7 @@ The dashboard should allow managers to:**
 
 ---
 
-## 🛠 Technical Details
+## Technical Details
 - Tool: **Microsoft Power BI Desktop**  
 - Techniques used:
   - DAX measures (e.g. `% Total Sales`, `Monthly Customers`, Margin calculations)  
