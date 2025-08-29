@@ -18,7 +18,7 @@ The dashboard should allow managers to:**
 
 ---
 
-## 🎨 Dashboard Features
+## Dashboard Features
 - **General KPI page**: Key metrics such as Revenue, Transactions or Profit.
 - **Stores page**: Breakdown of performance by store with a map to compare across regions.  
 - **Product insights**: Best-selling products, trends and targets.  
