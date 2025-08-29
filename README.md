@@ -61,6 +61,6 @@ The data comes from [Maven Analytics](https://www.mavenanalytics.io/), a well-kn
 ![Interactive Menu](IMG/Interactive_Menu.PNG)
 
 
-## 📄 Deliverables
+## Deliverables
 - **Power BI file**: `Maven_market.pbix`  
 - **PDF export** of the dashboard for non-Power BI users (see `/docs/`)  
